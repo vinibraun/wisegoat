@@ -1,0 +1,102 @@
+.fonte{
+    font-family: 'Roboto', Helvetica, sans-serif;
+    background-color: #E8E7DB;
+}
+
+/*primeira página*/
+
+.container{
+    width: 260px;
+    float: left;
+    margin-left: 400px;
+    margin-top: 200px;
+}
+
+.container2{
+    width: 390px;
+    float: right;
+    margin-right: 370px;
+    margin-top: 70px;
+}
+
+#imagembode{
+    width: 390px;
+}
+
+#wise{
+    color: #C1BB83;
+    font-size: 40px;
+    margin-bottom: -80px;
+}
+
+#goat{
+    color: #72005F;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+#botao{
+    width: 260px;
+    height: 60px;
+    background-color: #72005F;
+    color: azure;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 17px;
+    cursor: pointer;
+    margin-top: -90px;
+    box-shadow: 0 6px #7F078C;
+}
+
+.button:active {
+  transform: translateY(2px);
+}
+
+
+/*segunda página*/
+
+.container3{
+    margin-left: 50px;
+}
+
+.container4{
+    width: 310px;
+    height: 400px;
+    float: right;
+    margin-right: 370px;
+    margin-top: 50px;
+}
+
+.container5{
+    width: 419px;
+    height: 400px;
+    float: left;
+    margin-left: 400px;
+    margin-top: 60px;
+}
+
+#imagembode2{
+    width: 310px;
+    height: 400px;
+    border-radius: 10px;
+}
+
+#wise2 {
+    color: #C1BB83;
+    font-size: 20px;
+    margin-bottom: -38px;
+}
+
+#wise3 {
+    color: #A58C4B;
+    font-size: 30px;
+    margin-bottom: -38px;
+    padding-left: 200px;
+}
+
+#goat2{
+    color: #72005F;
+    font-size: 50px;
+    font-weight: bold;
+}
